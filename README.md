@@ -29,3 +29,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - MajorFullmetal Alchemist
 - Gundam seed 
 - gundam the origin
+- Kaguya-sama: Love Is War
+- The Demon Girl Next Door
